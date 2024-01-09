@@ -26,7 +26,7 @@
                 <br>
                 <div class="{{ $auth_type ?? 'login' }}-logo" style="margin-top: 10px;">
                     <a href="{{ $dashboard_url }}" style="color: #2980b9;">
-                        <h1 class="text-success ">Som<span class="text-">Llum</span></h1>
+                    <h1 class="text-success"><b>LUX</b>POWER</h1>
                         <!---<img src="{{ asset(config('adminlte.logo_img')) }}" height="50"> !--->
                     </a>
                 </div>
